@@ -2,6 +2,8 @@
 
 This landing page was done as practice for a fictional company called Huddle. The project was done in vanilla HTML and sass.
 
+## [Live Preview](https://xenodochial-newton-ddcd7f.netlify.app/)
+
 ## Screeshots
 
 ![home](./design/final/home.jpg)
@@ -14,19 +16,17 @@ This landing page was done as practice for a fictional company called Huddle. Th
 
 - Fork or clone the repository to your local machine.
 - Open the folder using any editor of your choice (vscode was used).
-- Enter gulp in your terminal to open the start the site.
 
 ## Editing the site
 
 - Edit the index.html as you see fit.
 - To style you can edit the style.scss file under the app folder.
-- To run a live preview of the website run gulp in your terminal to compile scss to css.
+- Scss was compiled using the vscode live sass compiler.
 
 ## Stack
 
 - HTML
 - Sass
-- Gulp
 
 ## Author
 
